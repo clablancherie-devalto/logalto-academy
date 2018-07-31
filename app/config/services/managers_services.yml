@@ -1,0 +1,4 @@
+services:
+    AppBundle\Managers\UserManager:
+        class: AppBundle\Managers\UserManager
+        autowire: true
